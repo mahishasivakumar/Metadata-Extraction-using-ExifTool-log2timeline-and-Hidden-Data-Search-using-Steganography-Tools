@@ -25,14 +25,16 @@ sudo apt update
 sudo apt install libimage-exiftool-perl
 ```
 #### Step 2: Navigate to the directory of the file:
-![Screenshot 2025-04-23 210512](https://github.com/user-attachments/assets/122cd3c4-ca61-4185-919f-f6a1c8e878ee)
 
+![Screenshot 2025-04-26 112642](https://github.com/user-attachments/assets/a237ec4e-5fdb-421f-855a-c882da64d811)
 
 #### Step 3: Run ExifTool on a file (e.g., praveen.jpeg):
-![{493BFA21-680A-4530-AAA1-1E12EE06A3A4}](https://github.com/user-attachments/assets/adb84e10-3e9c-4af1-b92d-1684e94adfe2)
+
+![Screenshot 2025-04-26 112844](https://github.com/user-attachments/assets/9171fbc3-37e9-4148-a911-3edad5b05808)
 
 #### Step 4: Export metadata to a text file (optional):
-![{5AAF7492-20E3-455C-9CF6-1FE0804E9442}](https://github.com/user-attachments/assets/9a94502c-9931-4c76-b6fd-4caa5ca52579)
+
+![Screenshot 2025-04-26 113054](https://github.com/user-attachments/assets/ead3f681-d9a8-41b2-86d6-a546f7569b97)
 
 #### Step 5: Look for key details:
 • Creation Date
