@@ -56,7 +56,8 @@ sudo apt install libimage-exiftool-perl
 sudo apt install steghide
 ```
 #### Step 2: Extract hidden data:
-![{A9EE6D5B-27EE-46B2-A176-28D95F7DDDFF}](https://github.com/user-attachments/assets/d21b6136-e501-4326-81c4-7099732c967d)
+![Screenshot 2025-04-26 113258](https://github.com/user-attachments/assets/3d114ef4-9973-4dde-9d07-af02d1ecfa4e)
+
 
 
 
@@ -68,18 +69,22 @@ sudo gem install zsteg
 ```
 
 #### Step 2: Run zsteg on a PNG:
-![{DEA3DD19-FE6F-44ED-B38B-E8235FC3AB74}](https://github.com/user-attachments/assets/ff647fa7-6b74-4f53-bddd-fa94fc1e290d)
+![Screenshot 2025-04-26 114936](https://github.com/user-attachments/assets/a97b8784-02c5-44c3-825c-74772137973f)
+
 
 ### 4.Using strings (for quick hidden text):
 
 #### Step1:  Create a text file to hide
-![{C8E31D09-26F9-4E12-85B2-11887DA413B4}](https://github.com/user-attachments/assets/a3f7bd26-036f-4772-88dd-7df15e507691)
+![Screenshot 2025-04-26 115258](https://github.com/user-attachments/assets/224bd5ce-54ef-4229-af5a-57ceceb0f670)
+
 
 #### Step2: Use cat to append the text file to a JPEG\
-![image](https://github.com/user-attachments/assets/70abee74-474d-4606-b365-9ea5c660199e)
+![Screenshot 2025-04-26 115635](https://github.com/user-attachments/assets/a651d948-d51a-4232-ad40-b8fd93398489)
+
 
 #### Step3: Use strings to find the hidden message
-![{1922A873-2EF1-4EE8-8589-20205D947064}](https://github.com/user-attachments/assets/cc94ed6b-7e4a-44f5-902d-7fa3e43ec415)
+![Screenshot 2025-04-26 115737](https://github.com/user-attachments/assets/e8e42c66-d43e-4c48-8347-d6d8a9054b0c)
+
 
 
 
